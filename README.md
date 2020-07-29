@@ -3,8 +3,9 @@ Documentation
 
 Ces scripts permettent de visualiser la "courbe" de tendance des prix d'annonces présentes sur le site leboncoin.
 
-Un premier script permet de récupérer les annonces répondant à vos critères. Les annonces sont récupéres au format JSON.
-Un seond script génère le graphique.
+Un premier script permet de récupérer les annonces répondant à vos critères. Un seond script génère le graphique. Les annonces sont récupéres au format JSON.
+
+![exemple de graphique](test.line.png)
 
 Prérequis
 ---------
