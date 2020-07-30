@@ -2,6 +2,7 @@ Documentation
 =============
 
 Ces scripts permettent de visualiser la "courbe" de tendance des prix d'annonces présentes sur le site leboncoin.
+Les scripts s'exécutent côté serveur avec nodejs.
 
 Un premier script permet de récupérer les annonces répondant à vos critères. Un seond script génère le graphique. Les annonces sont récupéres au format JSON.
 
